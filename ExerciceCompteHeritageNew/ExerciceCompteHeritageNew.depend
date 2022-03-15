@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1647196463 source:c:\users\mustapha\desktop\exercicecompteheritagenew\main.cpp
+	<iostream>
+
+1647196609 source:c:\users\mustapha\desktop\exercicecompteheritagenew\src\client.cpp
+	"Client.h"
+	<iostream>
+	<string>
+
+1647196463 c:\users\mustapha\desktop\exercicecompteheritagenew\include\client.h
+	<iostream>
+	<string>
+
+1647200059 source:c:\users\mustapha\desktop\exercicecompteheritagenew\src\devise.cpp
+	"Devise.h"
+	<iostream>
+	<string>
+
+1647200059 c:\users\mustapha\desktop\exercicecompteheritagenew\include\devise.h
+	<iostream>
+	<string>
+
+1647196632 source:c:\users\mustapha\desktop\exercicecompteheritagenew\src\compte.cpp
+	"Compte.h"
+	<iostream>
+	<string>
+
+1647196859 c:\users\mustapha\desktop\exercicecompteheritagenew\include\compte.h
+	<iostream>
+	<string>
+	"Client.h"
+	"Devise.h"
+
